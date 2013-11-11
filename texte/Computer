@@ -1,0 +1,44 @@
+Ein Computer respektive Rechner ist ein Apparat, der Daten mithilfe einer programmierbaren 
+Rechenvorschrift  verarbeiten kann.
+Zun채chst war die Informationsverarbeitung mit Computern auf die Verarbeitung von Zahlen 
+beschr채nkt. Mit zunehmender Leistungsf채higkeit er철ffneten sich neue Einsatzbereiche. Computer 
+sind heute in allen Bereichen des t채glichen Lebens vorzufinden: Sie dienen der Verarbeitung 
+und Ausgabe von Informationen in Wirtschaft und Beh철rden, der Berechnung der Statik von 
+Bauwerken bis hin zur Steuerung von Waschmaschinen und Automobilen. Die leistungsf채higsten 
+Computer werden eingesetzt, um komplexe Vorg채nge zu simulieren: Beispiele sind die 
+Klimaforschung, thermodynamische Fragestellungen, medizinische Berechnungen bis hin zu 
+milit채rischen Aufgaben, bspw. der Simulation des Einsatzes von nuklearen Waffen. Viele Ger채te 
+des Alltags, vom Telefon 체ber den Videorekorder bis hin zur M체nzpr체fung in Warenautomaten, 
+werden heute von integrierten Kleinstcomputern gesteuert. 
+Grundlagen
+Grunds?tzlich unterscheiden sich zwei Bauweisen: Ein Computer ist ein Digitalcomputer, wenn 
+er mit digitalen Ger?teeinheiten digitale Daten verarbeitet; er ist ein Analogcomputer, wenn 
+er mit analogen Ger?teeinheiten analoge Daten verarbeitet.
+Heute werden fast ausschließlich Digitalcomputer eingesetzt. Diese folgen gemeinsamen 
+Grundprinzipien, mit denen ihre freie Programmierung erm?glicht wird. Bei einem Digitalcomputer 
+werden dabei zwei grunds?tzliche Bausteine unterschieden: Die Hardware, die aus den 
+elektronischen, physisch anfassbaren Teilen des Computers gebildet wird, sowie die Software, 
+die die Programmierung des Computers beschreibt.
+Ein Digitalcomputer besteht zun?chst nur aus Hardware. Die Hardware stellt erstens einen so 
+genannten Speicher bereit, in dem Daten wie in Schubladen gespeichert und jederzeit zur 
+Verarbeitung bzw. Ausgabe abgerufen werden k?nnen. Zweitens verf?gt das Rechenwerk der Hardware 
+?ber grundlegende Bausteine f?r eine freie Programmierung, mit denen jede beliebige 
+Verarbeitungslogik f?r Daten dargestellt werden kann: Diese Bausteine sind im Prinzip die 
+Berechnung, der Vergleich und der bedingte Sprung. Ein Digitalcomputer kann beispielsweise 
+zwei Zahlen addieren, das Ergebnis mit einer dritten Zahl vergleichen und dann abh?ngig vom 
+Ergebnis entweder an der einen oder der anderen Stelle des Programms fortfahren. In der 
+Informatik wird dieses Modell theoretisch durch die Turing-Maschine abgebildet; die 
+Turing-Maschine stellt die grunds?tzlichen ?berlegungen zur Berechenbarkeit dar.
+Erst durch eine Software wird der Digitalcomputer jedoch n?tzlich. Jede Software ist im 
+Prinzip eine definierte, funktionale Anordnung der oben geschilderten Bausteine Berechnung, 
+Vergleich und Bedingter Sprung, wobei die Bausteine beliebig oft verwendet werden k?nnen. 
+Diese Anordnung der Bausteine, die als Programm bezeichnet wird, wird in Form von Daten im 
+Speicher des Computers abgelegt. Von dort kann sie von der Hardware ausgelesen und abgearbeitet 
+werden. Dieses Funktionsprinzip der Digitalcomputer hat sich seit seinen Urspr?ngen in der Mitte 
+des 20. Jahrhunderts nicht wesentlich ver?ndert, wenngleich die Details der Technologie 
+erheblich verbessert wurden.
+Analogrechner funktionieren jedoch nach einem anderen Prinzip. Bei ihnen ersetzen analoge 
+Bauelemente (Verst?rker, Kondensatoren) die Logikprogrammierung. Analogrechner wurden fr?her 
+h?ufiger zur Simulation von Regelvorg?ngen eingesetzt (siehe: Regelungstechnik), sind heute 
+aber fast vollst?ndig von Digitalcomputern verdr?ngt worden. In einer ?bergangszeit gab es 
+auch Hybridrechner, die einen Analog- mit einem digitalen Computer kombinierten.
